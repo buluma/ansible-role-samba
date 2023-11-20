@@ -5,4 +5,4 @@
 repository:
   description: Samba for RHEL/CentOS.
   homepage: https://buluma.github.io/
-  topics: networking, system, samba, windows, filesystem, fileshare, sharing, files, ansible, molecule, tox, playbook, hacktoberfest
+  topics: networking, system, samba, windows, filesystem, fileshare, sharing, files, ansible, molecule, tox, playbook
