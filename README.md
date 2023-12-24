@@ -1,10 +1,10 @@
-# [Ansible role samba](#samba)
+# Ansible role [samba](https://galaxy.ansible.com/ui/standalone/roles/buluma/samba/documentation)
 
 Samba for RHEL/CentOS.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-samba/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-samba/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-samba/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-samba/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-samba.svg)](https://github.com/buluma/ansible-role-samba/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/samba)](https://galaxy.ansible.com/ui/standalone/roles/buluma/samba/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
