@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-samba/tree/HEAD)
+## [v0.1.0](https://github.com/buluma/ansible-role-samba/tree/v0.1.0) (2023-12-25)
 
-[Full Changelog](https://github.com/buluma/ansible-role-samba/compare/7c5effa845bb23b189088cf5accf08759ec068a7...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-samba/compare/v0.1.1...v0.1.0)
+
+## [v0.1.1](https://github.com/buluma/ansible-role-samba/tree/v0.1.1) (2023-12-25)
+
+[Full Changelog](https://github.com/buluma/ansible-role-samba/compare/7c5effa845bb23b189088cf5accf08759ec068a7...v0.1.1)
 
 **Merged pull requests:**
 
